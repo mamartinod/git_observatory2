@@ -1,1 +1,1 @@
-# git_observatory2
+git_observatory
